@@ -1,0 +1,17 @@
+{
+  "name": "node-lang",
+  "version": "1.0.0",
+  "private": true,
+  "description": "an express middleware",
+  "license": "MIT",
+  "author": "dan entous",
+  "scripts": {
+    "jshint": "jshint ."
+  },
+  "dependencies": {
+    "validator": "^5.1.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.1"
+  }
+}
